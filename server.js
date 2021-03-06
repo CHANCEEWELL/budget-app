@@ -27,7 +27,7 @@ Mongoose.connect(
 
 // routes
 App.use(require("./routes/api.js"));
-App.listen(process.env.PORT);
+
 App.listen(PORT, () => {
   console.log(`App running on port ${PORT} in ${NODE_ENV} mode!`);
 });
