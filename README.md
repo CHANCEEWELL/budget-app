@@ -26,3 +26,6 @@ TECHNOLOGIES USED:
 + API
 + Visual Studio Code
 
+SCREENSHOT OF DEPLOYED APP ON Localhost:
+
+![](https://raw.githubusercontent.com/CHANCEEWELL/budget-app/assets/Screen%20Shot%202021-03-06%20at%2012.08.42%20AM.png)
